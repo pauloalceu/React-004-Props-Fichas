@@ -1,0 +1,11 @@
+.App {
+    text-align: center;
+    display: grid;
+  }
+ 
+.ficha{
+    width: 50%; 
+    height: auto;
+    border: 3px solid blue;
+    margin-bottom: 10px;
+}
